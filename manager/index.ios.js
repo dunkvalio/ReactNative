@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
 import App from './js/app';
 
-AppRegistry.registerComponent('manager', () => manager);
+AppRegistry.registerComponent('manager', () => App);
